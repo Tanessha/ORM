@@ -22,6 +22,7 @@ Execute Django admin and create 10 Football players
 
 ## PROGRAM
 ![image](https://github.com/Tanessha/ORM/assets/140876194/a7135dda-1546-4499-be95-bd4c2133efbe)
+
 ![image](https://github.com/Tanessha/ORM/assets/140876194/0d5fc6cf-2b33-4a23-b921-ec9b31947890)
 ![image](https://github.com/Tanessha/ORM/assets/140876194/db7e1a1b-a1bf-4975-91af-2575196073a2)
 ![image](https://github.com/Tanessha/ORM/assets/140876194/c919fd86-a397-4ff1-9a74-5cfa7aeba1a9)
